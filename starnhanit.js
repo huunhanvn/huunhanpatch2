@@ -219,4 +219,4 @@ $(document)['ready'](function() {
         _0x6331x4['parents']()['hasClass']('button-dropdown_bacsiwindows') || _0x6331x7('.button-dropdown_bacsiwindows .dropdown-toggle')['removeClass']('active')
     })
 })
-// starnhanit.ml
+// bacsiwindows.com
