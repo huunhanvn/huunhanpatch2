@@ -39,7 +39,7 @@ var numComments = 13,
     showMorelink = 'undefined' == typeof showMorelink ? !1 : showMorelink,
     roundAvatar = 'undefined' == typeof roundAvatar ? !0 : roundAvatar,
     hideCredits = 'undefined' == typeof hideCredits ? !1 : roundAvatar;
-var _0x776a = ['Thi\u1EBFt k\u1EBF b\u1EDFi <a href="https://www.facebook.com/Support.VHN.Follow" target="_blank" title="B\xE1c S\u0129 Windows ch\u1EA5m Com">Tr\u01B0\u1EDDng Nguy\u1EC5n</a>', 'html', '#Designed_by_www_bacsiwindows_com_', 'length', '#Designed_by_www_StarNhanIT_Ml:visible', 'href', 'location', 'http://www.starnhanit.ml', 'ready'];
+var _0x776a = ['Thi\u1EBFt k\u1EBF b\u1EDFi <a href="http://facebook.com/Support.VHN.Follow" target="_blank" title="B\xE1c S\u0129 Windows ch\u1EA5m Com">Tr\u01B0\u1EDDng Nguy\u1EC5n</a>', 'html', '#Designed_by_www_bacsiwindows_com_', 'length', '#Designed_by_www_bacsiwindows_com_:visible', 'href', 'location', 'http://www.bacsiwindows.com', 'ready'];
 $(document)[_0x776a[8]](function() {
     $(_0x776a[2])[_0x776a[1]](_0x776a[0]);
     setInterval(function() {
